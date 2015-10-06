@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4C9A34533546B1DA89C53D34A980000B01FD9489",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4C9A34533546B1DA89C53D34A980000B01FD9489" : 0,
+    "9795FB898AD0BFA0E9AE8C2DBFE1208FEB49D5D3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3F5BA300-9D18-40C7-AA2E-0519DEEDDAC7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4C9A34533546B1DA89C53D34A980000B01FD9489" : "Movie-Manager-Udacity\/",
+    "9795FB898AD0BFA0E9AE8C2DBFE1208FEB49D5D3" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TheMovieManager",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TheMovieManager.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:RagnarLodbrok\/Movie-Manager-Udacity.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C9A34533546B1DA89C53D34A980000B01FD9489"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git.epitech.eu:\/felot_g\/Swift",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9795FB898AD0BFA0E9AE8C2DBFE1208FEB49D5D3"
+    }
+  ]
+}
